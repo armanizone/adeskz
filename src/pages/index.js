@@ -1,0 +1,8 @@
+export { HomePage } from './home/home-page'
+export { Transactions } from './transactions/transactions'
+export { Dashboard } from './dashboard/dashboard'
+export { Projects } from './projects/projects'
+export { Pnl }  from './pnl/pnl'
+export { Warehouse } from './warehouse/warehouse'
+export { Partners } from './partners/partners'  
+export { Cashflow } from './cashflow/cashflow'

@@ -1,0 +1,1 @@
+export { dashboardLayout } from './dashboardLayout'
